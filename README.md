@@ -1,4 +1,4 @@
-# stylesOnlyIframe
+# styles Only on the Iframe
 
 Change the styles if the widget is inside an iframe
 
