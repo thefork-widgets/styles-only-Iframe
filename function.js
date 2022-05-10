@@ -1,4 +1,4 @@
-/* Estilos para website con fondo negro */
+/* Estilos para website con fondo negro con texto en blanco*/
 
     if (window.top != window.self) {
             console.log("This window is NOT the topmost window, I'm an IFRAME!");
@@ -8,7 +8,6 @@
               console.log("This window is the topmost window!");
      }          
                 
-
 
 /* Con huella bancaria */
 
