@@ -1,3 +1,4 @@
+/* Estilos para website con fondo negro */
 
     if (window.top != window.self) {
             console.log("This window is NOT the topmost window, I'm an IFRAME!");
