@@ -1,4 +1,3 @@
-<script type="text/javascript">  
 
     if (window.top != window.self) {
             console.log("This window is NOT the topmost window, I'm an IFRAME!");
@@ -8,12 +7,10 @@
               console.log("This window is the topmost window!");
      }          
                 
-</script>
 
 
-<!-- Con huella bancaria -->
+/* Con huella bancaria */
 
-<script type="text/javascript">  
 
     if (window.top != window.self) {
             console.log("This window is NOT the topmost window, I'm an IFRAME!");
@@ -23,4 +20,3 @@
               console.log("This window is the topmost window!");
      }          
                 
-</script>
